@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedahmad11" alt="saeedahmad11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saeed49331029" target="blank"><img src="https://img.shields.io/twitter/follow/saeed49331029?logo=twitter&style=for-the-badge" alt="saeed49331029" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Ecommerce App**
 
@@ -22,8 +21,6 @@
 - 📫 How to reach me **khan123saeed123@gmail.com**
 
 - 📄 Know about my experiences [https://saeed.upinfluencebuzz.com/wp-content/uploads/2023/06/Saeed-Ahmad-ijaz-Resume.zip](https://saeed.upinfluencebuzz.com/wp-content/uploads/2023/06/Saeed-Ahmad-ijaz-Resume.zip)
-
-### Blogs posts
 
 
 <h3 align="left">Connect with me:</h3>
