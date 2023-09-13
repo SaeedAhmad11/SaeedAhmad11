@@ -24,20 +24,7 @@
 - 📄 Know about my experiences [https://saeed.upinfluencebuzz.com/wp-content/uploads/2023/06/Saeed-Ahmad-ijaz-Resume.zip](https://saeed.upinfluencebuzz.com/wp-content/uploads/2023/06/Saeed-Ahmad-ijaz-Resume.zip)
 
 ### Blogs posts
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://upinfluencebuzz.com/index.php/feed/"
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
